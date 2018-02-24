@@ -25,5 +25,6 @@ public class Test : MonoBehaviour {
         style.fontSize = 20;
         GUI.color = Color.white;
         GUI.Box(new Rect(rectWidth, indent, rectWidth - indent, screenHeight - indent - indent), logMesageGUI, style);
+		//clone repo comment
     }
 }
